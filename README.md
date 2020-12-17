@@ -1,4 +1,4 @@
-# -Udemy-Data-Analysis-Visualization-Bootcamp-on-07-15-2019-as-taught-by-Python-Data-Analytics-Data
+# Udemy-Data-Analysis-Visualization-Bootcamp-by-Python-Data-Analytics-Data-Science
 The course Python Data Analysis & Visualization Bootcamp on 07/15/2019 as taught by https://www.udemy.com/course/learn-data-analytics-complete-bootcamp-by-takenmind/
 Python Data Analytics Data Science on Udemy. 
 The certificate issue indicates the entire course was completed as validated by the student. 
